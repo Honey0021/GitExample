@@ -17,3 +17,7 @@
 2023-03-17 15:48:34,292 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\XPerson\MavenExample\src\main\resources
 2023-03-17 15:48:34,294 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-17 15:48:34,294 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\XPerson\MavenExample\src\test\resources
+2023-03-17 15:53:02,514 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-17 15:53:02,515 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\XPerson\MavenExample\src\main\resources
+2023-03-17 15:53:02,517 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-17 15:53:02,518 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\XPerson\MavenExample\src\test\resources
