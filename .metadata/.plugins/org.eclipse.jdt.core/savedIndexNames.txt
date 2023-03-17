@@ -23,7 +23,6 @@ INDEX VERSION 1.130+C:\GitExample\XPerson\.metadata\.plugins\org.eclipse.jdt.cor
 1355661747.index
 2227786841.index
 800920684.index
-3073231150.index
 887695787.index
 1255413743.index
 1230375882.index
