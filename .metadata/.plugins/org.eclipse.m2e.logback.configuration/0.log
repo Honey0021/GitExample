@@ -21,3 +21,19 @@
 2023-03-17 15:53:02,515 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\XPerson\MavenExample\src\main\resources
 2023-03-17 15:53:02,517 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-17 15:53:02,518 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\XPerson\MavenExample\src\test\resources
+2023-03-17 16:16:32,113 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-17 16:16:37,675 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PracticeMaven:MavenExample:0.0.1-SNAPSHOT @ C:\GitExample\YPerson\MavenExample\pom.xml.
+2023-03-17 16:16:37,675 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PracticeMaven:MavenExample:0.0.1-SNAPSHOT @ C:\GitExample\YPerson\MavenExample\pom.xml.
+2023-03-17 16:16:43,239 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-17 16:16:43,239 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\YPerson\MavenExample\src\main\resources
+2023-03-17 16:16:43,241 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-17 16:16:43,241 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\YPerson\MavenExample\src\test\resources
+2023-03-17 16:16:44,759 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PracticeMaven:MavenExample:0.0.1-SNAPSHOT @ C:\GitExample\YPerson\MavenExample\pom.xml.
+2023-03-17 16:16:46,808 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-17 16:16:46,808 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\YPerson\MavenExample\src\main\resources
+2023-03-17 16:16:46,810 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-17 16:16:46,810 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\YPerson\MavenExample\src\test\resources
+2023-03-17 16:18:20,667 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-17 16:18:20,667 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\YPerson\MavenExample\src\main\resources
+2023-03-17 16:18:20,669 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-17 16:18:20,669 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GitExample\YPerson\MavenExample\src\test\resources
